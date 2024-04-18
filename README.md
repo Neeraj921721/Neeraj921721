@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neeraj921721
 - 👀 I’m interested in learning
 - 🌱 I’m currently working ...
-- 💞️ I’m looking to collaborate on nothing as of now...
+- 💞️ I’m looking to collaborate on technologies related to ASP.NET, Javascript, Jquery, MSSQL, C++, Javascript frameworks.
 - 📫 Reach me via mail..
 
 <!---
