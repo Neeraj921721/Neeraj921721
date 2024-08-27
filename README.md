@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Neeraj921721
-- 👀 I’m interested in Full stack development.
-- 🌱 I’m currently looking for work ...
-- 💞️ I’m looking to collaborate on technologies related to ASP.NET, Javascript, Jquery, MSSQL, C++, Javascript frameworks.
+- 👀 I am a Data Engineer by profession...
+- 💞️ I love Full Stack as well and have 2+ years of experience as C# developer...  
 - 📫 Reach me via mail **neerajkumargond.dakshana17@gmail.com**
 
 <!---
